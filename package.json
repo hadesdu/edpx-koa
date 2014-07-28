@@ -1,0 +1,29 @@
+{
+  "name": "edpx-koa",
+  "version": "0.0.1",
+  "description": "Package for edp webserver using es6 generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hadesdu/edpx-koa.git"
+  },
+  "keywords": [
+    "edp",
+    "webserver",
+    "generator"
+  ],
+  "author": "hadesdu",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hadesdu/edpx-koa/issues"
+  },
+  "homepage": "https://github.com/hadesdu/edpx-koa",
+  "dependencies": {
+    "edp-core": "~1.0.27",
+    "koa": "~0.8.1",
+    "raw-body": "~1.3.0"
+  }
+}
