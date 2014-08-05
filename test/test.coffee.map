@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "test.coffee",
+  "sourceRoot": "",
+  "sources": [
+    "test.coffee?source"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,MAAA;;AAAA,EAAA,MAAA,GAAS,EAAT,CAAA;AAAA"
+}
