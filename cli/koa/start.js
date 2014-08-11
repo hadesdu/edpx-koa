@@ -1,6 +1,10 @@
 /**
  * @file 开发时web调试服务器启动入口
- * @author hades[denghongqi@gmail.com], 
+ * @author otakustay[otakustay@live.com], 
+ *         errorrik[errorrik@gmail.com],
+ *         ostream[ostream.song@gmail.com],
+ *         firede[firede@firede.us]
+ *         hades[denghongqi@firede.us]
  */
 
 
