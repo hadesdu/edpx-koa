@@ -7,6 +7,10 @@ edpx-koa是基于es6 Generator开发的webserver。实现的功能同edp-webserv
 
 + 安装nodejs 0.11.x版本
 
+```
+如果机器上装有jumbo可以直接 $ jumbo install nodejs
+```
+
 + 安装edp
 
 ```

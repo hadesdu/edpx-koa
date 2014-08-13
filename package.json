@@ -1,6 +1,6 @@
 {
   "name": "edpx-koa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Package for edp webserver using es6 generator",
   "main": "index.js",
   "scripts": {
